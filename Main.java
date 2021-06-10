@@ -91,8 +91,13 @@ public class Main {
                 System.out.println();
             }
         }
-
-
+        System.out.println("|-----------------------------------------------------------|");
+        System.out.println("|                                                           |");
+        System.out.println("|      The end of the tree is here (sad but true)           |");
+        System.out.println("|      Created by Alex Soulis                               |");
+        System.out.println("|                                                           |");
+        System.out.println("|-----------------------------------------------------------|");
     }
+
 }
 
